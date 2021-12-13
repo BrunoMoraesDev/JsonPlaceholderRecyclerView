@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App RecyclerView</string>
+    <string name="todo">ToDo</string>
+    <string name="posts">Posts</string>
+    <string name="comments">Comments</string>
+    <string name="albums">Albums</string>
+    <string name="dAlbums">Album Detail</string>
+    <string name="dTodo">ToDo Detail</string>
+    <string name="dPosts">Post Detail</string>
+    <string name="dComment">Comment Detail</string>
+    <string name="id">Id:</string>
+    <string name="idUser">Id User:</string>
+    <string name="title">Title:</string>
+    <string name="status">Status:</string>
+    <string name="body">Body:</string>
+    <string name="postId">Post Id:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+</resources>
